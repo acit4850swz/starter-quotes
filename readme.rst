@@ -10,7 +10,7 @@ Team Members:
 *************
 
 William
-Ziggy
+Ziqi 
 Shaw
 
 ******************
@@ -24,7 +24,7 @@ Task Assignment:
 
 Shaw: 2, 5, 7
 Will: 1, 4
-Ziq: 3, 6, 8
+Ziqi: 3, 6, 8
 
 
 
